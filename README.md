@@ -480,6 +480,8 @@ __global__ void reduceUnrolling8(int *g_idata, int *g_odata, unsigned int n)
 ```
 ## OUTPUT:
 ![](./o1.png)
+
+
 ![](./o2.png)
 
 ## RESULT:
